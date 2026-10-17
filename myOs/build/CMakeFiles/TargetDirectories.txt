@@ -1,0 +1,3 @@
+/Users/akshatsrivastava/Desktop/opSys/myOs/build/CMakeFiles/myOs.dir
+/Users/akshatsrivastava/Desktop/opSys/myOs/build/CMakeFiles/edit_cache.dir
+/Users/akshatsrivastava/Desktop/opSys/myOs/build/CMakeFiles/rebuild_cache.dir
